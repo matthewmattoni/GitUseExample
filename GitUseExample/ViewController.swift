@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     
     //MARK: - Actions and Outlets
     @IBAction func buttonClicked(_ sender: UIButton){
-        print("This is a git tutorial.")
+        print("You finished!")
     }
 
     override func viewDidLoad() {
